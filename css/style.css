@@ -53,24 +53,12 @@ img {
   transition: 0.5s;
 }
 
-.navbar.top {
-  background: transparent;
-}
-
 .navbar a {
   color: #fff;
   padding: 10px 20px;
   margin: 0 5px;
 }
 
-.navbar a:hover {
-  border-bottom: #28a745 2px solid;
-}
-
 .navbar ul {
   display: flex;
-}
-
-.navbar .logo {
-  font-weight: 400;
 }
