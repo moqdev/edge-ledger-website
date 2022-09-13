@@ -53,6 +53,10 @@ img {
   transition: 0.5s;
 }
 
+.navbar.top {
+  background: transparent;
+}
+
 .navbar a {
   color: #fff;
   padding: 10px 20px;
@@ -73,7 +77,7 @@ img {
 
 /* Header */
 .hero {
-  background: url(../images/home/showcase.jpg) no-repeat center center/cover;
+  background: url("../images/home/showcase.jpg") no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
@@ -114,7 +118,7 @@ img {
 }
 
 .hero.blog {
-  background: url(../images/home/blog.jpg) no-repeat center center/cover;
+  background: url("../images/home/blog.jpg") no-repeat center center/cover;
   height: 30vh;
 }
 
@@ -166,9 +170,9 @@ img {
   border: #f5f5f5 1px solid;
 }
 
-.callback-form input:focus {
+/* .callback-form input:focus {
   outline-color: #28a745;
-}
+} */
 
 .callback-form .btn {
   padding: 12px 0;
