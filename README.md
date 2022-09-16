@@ -1,13 +1,15 @@
-# EdgeLedger
+# Edge Ledger Financial Website
 
-HTML, CSS & JS including Mobile UI Layout | Responsive Financial Company
+Responsive Website | HTML, CSS, JS, animation and more. | Financial hosting website and mobile app
 
-![Financial Company Website](../edge-ledger-website/images/screenshot1.png)
+![Edge Ledger Website](../edge-ledger-website/images/screenshot1.png "Edge Ledger")
 
-![Edge Ledger](../edge-ledger-website/images/screenshot2.png)
+![Edge Ledger](../edge-ledger-website/images/screenshot2.png "Edge Ledger")
 
-![Edge Ledger](../edge-ledger-website/images/screenshot3.png)
+![Edge Ledger](../edge-ledger-website/images/screenshot3.png "Edge Ledger")
 
-![Edge Ledger Mobile app](../edge-ledger-website/images/screenshot4.png)
+![Edge Ledger](../edge-ledger-website/images/screenshot4.png "Edge Ledger")
 
-![Edge Ledger Mobile app](../edge-ledger-website/images/screenshot5.png)
+![Edge Ledger](../edge-ledger-website/images/screenshot5.png "Edge Ledger")
+
+![Edge Ledger](../edge-ledger-website/images/screenshot6.png "Edge Ledger")
